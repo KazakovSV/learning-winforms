@@ -3,4 +3,5 @@
   <Project Path="P002_NewForm/P002_NewForm.csproj" />
   <Project Path="P003_ShowForm/P003_ShowForm.csproj" />
   <Project Path="P004_ShowFormAndSleep/P004_ShowFormAndSleep.csproj" />
+  <Project Path="P005_RunFormBadly/P005_RunFormBadly.csproj" />
 </Solution>
