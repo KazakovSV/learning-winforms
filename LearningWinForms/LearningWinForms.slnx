@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="P001_MessageBoxHelloWorld/P001_MessageBoxHelloWorld.csproj" />
+</Solution>
