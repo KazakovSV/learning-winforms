@@ -2,4 +2,5 @@
   <Project Path="P001_MessageBoxHelloWorld/P001_MessageBoxHelloWorld.csproj" />
   <Project Path="P002_NewForm/P002_NewForm.csproj" />
   <Project Path="P003_ShowForm/P003_ShowForm.csproj" />
+  <Project Path="P004_ShowFormAndSleep/P004_ShowFormAndSleep.csproj" />
 </Solution>
