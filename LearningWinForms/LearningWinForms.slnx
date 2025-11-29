@@ -5,4 +5,5 @@
   <Project Path="P004_ShowFormAndSleep/P004_ShowFormAndSleep.csproj" />
   <Project Path="P005_RunFormBadly/P005_RunFormBadly.csproj" />
   <Project Path="P006_RunFormBetter/P006_RunFormBetter.csproj" />
+  <Project Path="P007_TwoForms/P007_TwoForms.csproj" />
 </Solution>
