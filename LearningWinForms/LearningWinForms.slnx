@@ -8,4 +8,5 @@
   <Project Path="P007_TwoForms/P007_TwoForms.csproj" />
   <Project Path="P008_FormProperties/P008_FormProperties.csproj" Id="48950e76-7b9e-4ab5-bfea-45f3f7f5e732" />
   <Project Path="P009_PaintEvent/P009_PaintEvent.csproj" Id="c253e859-d4a5-456f-819b-0c8b5312f9fa" />
+  <Project Path="P010_PaintHello/P010_PaintHello.csproj" Id="7553e799-c43b-460b-a4ba-8891b63a43ee" />
 </Solution>
