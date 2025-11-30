@@ -6,4 +6,5 @@
   <Project Path="P005_RunFormBadly/P005_RunFormBadly.csproj" />
   <Project Path="P006_RunFormBetter/P006_RunFormBetter.csproj" />
   <Project Path="P007_TwoForms/P007_TwoForms.csproj" />
+  <Project Path="P008_FormProperties/P008_FormProperties.csproj" Id="48950e76-7b9e-4ab5-bfea-45f3f7f5e732" />
 </Solution>
