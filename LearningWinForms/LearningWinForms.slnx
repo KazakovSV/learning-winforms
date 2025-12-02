@@ -15,4 +15,5 @@
   <Project Path="P014_InheritWithConstructor/P014_InheritWithConstructor.csproj" Id="74ff6c14-3c87-487a-adfc-495ba74ebd68" />
   <Project Path="P015_HelloWorld/P015_HelloWorld.csproj" Id="ff8b7da4-43e2-402b-9f4a-90326d32434f" />
   <Project Path="P016_InheritHelloWorld/P016_InheritHelloWorld.csproj" Id="5d97804a-4bd7-4f68-bfd6-f9beabab3801" />
+  <Project Path="P017_InstantiateHelloWorld/P017_InstantiateHelloWorld.csproj" Id="29e3f793-2053-4fc7-b05e-4a2a448c1c4e" />
 </Solution>
