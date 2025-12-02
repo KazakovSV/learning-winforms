@@ -10,4 +10,5 @@
   <Project Path="P009_PaintEvent/P009_PaintEvent.csproj" Id="c253e859-d4a5-456f-819b-0c8b5312f9fa" />
   <Project Path="P010_PaintHello/P010_PaintHello.csproj" Id="7553e799-c43b-460b-a4ba-8891b63a43ee" />
   <Project Path="P011_PaintTwoForms/P011_PaintTwoForms.csproj" Id="ecbc938f-0241-4d80-bebb-4fa28472d40e" />
+  <Project Path="P012_TwoPaintHandlers/P012_TwoPaintHandlers.csproj" Id="a98467e3-ec52-4002-8c7e-99089c180664" />
 </Solution>
