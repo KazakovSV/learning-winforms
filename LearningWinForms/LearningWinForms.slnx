@@ -13,4 +13,5 @@
   <Project Path="P012_TwoPaintHandlers/P012_TwoPaintHandlers.csproj" Id="a98467e3-ec52-4002-8c7e-99089c180664" />
   <Project Path="P013_InheritTheForm/P013_InheritTheForm.csproj" Id="4bdf9eef-3f91-4e59-9009-e7556d66a99f" />
   <Project Path="P014_InheritWithConstructor/P014_InheritWithConstructor.csproj" Id="74ff6c14-3c87-487a-adfc-495ba74ebd68" />
+  <Project Path="P015_HelloWorld/P015_HelloWorld.csproj" Id="ff8b7da4-43e2-402b-9f4a-90326d32434f" />
 </Solution>
