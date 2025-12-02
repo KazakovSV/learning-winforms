@@ -8,7 +8,7 @@
         }
     }
 
-    internal class HelloWorld : Form
+    public class HelloWorld : Form
     {
         public HelloWorld()
         {
