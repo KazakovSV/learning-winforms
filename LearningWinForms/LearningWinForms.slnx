@@ -20,4 +20,5 @@
   </Folder>
   <Project Path="P018_FormSize/P018_FormSize.csproj" Id="6d444714-d3b0-4193-ab56-f0a9ff0321e8" />
   <Project Path="P019_RandomClear/P019_RandomClear.csproj" Id="73ce7896-77ef-485f-880a-4943c8fe9126" />
+  <Project Path="P020_RandomClearResizeRedraw/P020_RandomClearResizeRedraw.csproj" Id="6d8338af-d9b0-430e-ad9a-32227721bd90" />
 </Solution>
