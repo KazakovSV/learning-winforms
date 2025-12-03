@@ -22,4 +22,5 @@
   <Project Path="P019_RandomClear/P019_RandomClear.csproj" Id="73ce7896-77ef-485f-880a-4943c8fe9126" />
   <Project Path="P020_RandomClearResizeRedraw/P020_RandomClearResizeRedraw.csproj" Id="6d8338af-d9b0-430e-ad9a-32227721bd90" />
   <Project Path="P021_FourCorners/P021_FourCorners.csproj" Id="e522884b-53db-4428-9263-04132f8c6a63" />
+  <Project Path="P022_HelloCenteredAlignment/P022_HelloCenteredAlignment.csproj" Id="995ca59c-9ad4-4bc7-a04c-28116065953b" />
 </Solution>
