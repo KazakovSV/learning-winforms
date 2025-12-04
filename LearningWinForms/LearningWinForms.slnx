@@ -28,5 +28,7 @@
     <Project Path="P024_HelloCenteredRectangle/P024_HelloCenteredRectangle.csproj" Id="83c5136b-2707-42da-9f73-affc68c4d1ca" />
     <Project Path="P025_HuckleberryFinn/P025_HuckleberryFinn.csproj" />
   </Folder>
-  <Folder Name="/Ch04/" />
+  <Folder Name="/Ch04/">
+    <Project Path="P026_SysInfoFirstTry/P026_SysInfoFirstTry.csproj" Id="bf931a13-6d44-412f-82ed-b60e416d8eca" />
+  </Folder>
 </Solution>
