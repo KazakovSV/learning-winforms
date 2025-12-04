@@ -24,4 +24,5 @@
   <Project Path="P021_FourCorners/P021_FourCorners.csproj" Id="e522884b-53db-4428-9263-04132f8c6a63" />
   <Project Path="P022_HelloCenteredAlignment/P022_HelloCenteredAlignment.csproj" Id="995ca59c-9ad4-4bc7-a04c-28116065953b" />
   <Project Path="P023_HelloCenteredMeasured/P023_HelloCenteredMeasured.csproj" Id="3e8716ba-d5db-4f18-99c1-2b26fd2590c0" />
+  <Project Path="P024_HelloCenteredRectangle/P024_HelloCenteredRectangle.csproj" Id="83c5136b-2707-42da-9f73-affc68c4d1ca" />
 </Solution>
