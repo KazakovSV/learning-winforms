@@ -18,12 +18,14 @@
     <Project Path="P016_InheritHelloWorld/P016_InheritHelloWorld.csproj" Id="5d97804a-4bd7-4f68-bfd6-f9beabab3801" />
     <Project Path="P017_InstantiateHelloWorld/P017_InstantiateHelloWorld.csproj" Id="29e3f793-2053-4fc7-b05e-4a2a448c1c4e" />
   </Folder>
-  <Project Path="P018_FormSize/P018_FormSize.csproj" Id="6d444714-d3b0-4193-ab56-f0a9ff0321e8" />
-  <Project Path="P019_RandomClear/P019_RandomClear.csproj" Id="73ce7896-77ef-485f-880a-4943c8fe9126" />
-  <Project Path="P020_RandomClearResizeRedraw/P020_RandomClearResizeRedraw.csproj" Id="6d8338af-d9b0-430e-ad9a-32227721bd90" />
-  <Project Path="P021_FourCorners/P021_FourCorners.csproj" Id="e522884b-53db-4428-9263-04132f8c6a63" />
-  <Project Path="P022_HelloCenteredAlignment/P022_HelloCenteredAlignment.csproj" Id="995ca59c-9ad4-4bc7-a04c-28116065953b" />
-  <Project Path="P023_HelloCenteredMeasured/P023_HelloCenteredMeasured.csproj" Id="3e8716ba-d5db-4f18-99c1-2b26fd2590c0" />
-  <Project Path="P024_HelloCenteredRectangle/P024_HelloCenteredRectangle.csproj" Id="83c5136b-2707-42da-9f73-affc68c4d1ca" />
-  <Project Path="P025_HuckleberryFinn/P025_HuckleberryFinn.csproj" />
+  <Folder Name="/Ch03/">
+    <Project Path="P018_FormSize/P018_FormSize.csproj" Id="6d444714-d3b0-4193-ab56-f0a9ff0321e8" />
+    <Project Path="P019_RandomClear/P019_RandomClear.csproj" Id="73ce7896-77ef-485f-880a-4943c8fe9126" />
+    <Project Path="P020_RandomClearResizeRedraw/P020_RandomClearResizeRedraw.csproj" Id="6d8338af-d9b0-430e-ad9a-32227721bd90" />
+    <Project Path="P021_FourCorners/P021_FourCorners.csproj" Id="e522884b-53db-4428-9263-04132f8c6a63" />
+    <Project Path="P022_HelloCenteredAlignment/P022_HelloCenteredAlignment.csproj" Id="995ca59c-9ad4-4bc7-a04c-28116065953b" />
+    <Project Path="P023_HelloCenteredMeasured/P023_HelloCenteredMeasured.csproj" Id="3e8716ba-d5db-4f18-99c1-2b26fd2590c0" />
+    <Project Path="P024_HelloCenteredRectangle/P024_HelloCenteredRectangle.csproj" Id="83c5136b-2707-42da-9f73-affc68c4d1ca" />
+    <Project Path="P025_HuckleberryFinn/P025_HuckleberryFinn.csproj" />
+  </Folder>
 </Solution>
