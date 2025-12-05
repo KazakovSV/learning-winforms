@@ -32,5 +32,6 @@
     <Project Path="P026_SysInfoFirstTry/P026_SysInfoFirstTry.csproj" Id="bf931a13-6d44-412f-82ed-b60e416d8eca" />
     <Project Path="P027_SysInfoColumns/P027_SysInfoColumns.csproj" Id="26b67bb3-3490-4d7b-a6dc-42ad33a52346" />
     <Project Path="P028_SysInfoStrings/P028_SysInfoStrings.csproj" Id="f6f2ea0c-8137-4e5b-9f81-5c1db965474f" />
+    <Project Path="P029_SysInfoPanel/P029_SysInfoPanel.csproj" Id="ee06853d-b70a-4679-b823-2559f6fb8d09" />
   </Folder>
 </Solution>
