@@ -41,5 +41,6 @@
     <Project Path="P033_XMarksTheSpot/P033_XMarksTheSpot.csproj" Id="d603c55f-2070-45a5-9bdb-5a97a67d7376" />
     <Project Path="P034_HelloPrinter/P034_HelloPrinter.csproj" Id="f2534e7d-db19-49d3-9d9a-206fa39973c2" />
     <Project Path="P035_PrintableForm/P035_PrintableForm.csproj" Id="92d7f1fe-c629-402e-b5b1-8700ecf89a37" />
+    <Project Path="P036_AntiAlias/P036_AntiAlias.csproj" Id="d0b1464f-e2b1-4375-978f-65f018cad81a" />
   </Folder>
 </Solution>
