@@ -12,11 +12,14 @@ internal class Program
     }
 }
 
-internal class SysInfoUpdate : Form
+public class SysInfoUpdate : Form
 {
-    private readonly Dictionary<string, string> _properties = [];
-    private int _width;
-    private int _height;
+    protected readonly List<string> _labels = [];
+    protected readonly List<string> _values = [];
+    protected int _width;
+    protected int _height;
+
+    public int Count => _labels.Count;
 
     public SysInfoUpdate()
     {
@@ -35,16 +38,14 @@ internal class SysInfoUpdate : Form
     protected override void OnPaint(PaintEventArgs e)
     {
         var brush = SystemBrushes.WindowText;
-        var row = 0;
         var position = AutoScrollPosition;
 
-        foreach (var kvp in _properties)
+        for (int i = 0; i < Count; i++)
         {
-            e.Graphics.DrawString(kvp.Key, Font, brush,
-                position.X, position.Y + row * _height);
-            e.Graphics.DrawString(kvp.Value, Font, brush,
-                position.X + _width, position.Y + row * _height);
-            row++;
+            e.Graphics.DrawString(_labels[i], Font, brush,
+                position.X, position.Y + i * _height);
+            e.Graphics.DrawString(_values[i], Font, brush,
+                position.X + _width, position.Y + i * _height);
         }
     }
 
@@ -55,7 +56,8 @@ internal class SysInfoUpdate : Form
 
         foreach (var property in properties.OrderBy(p => p.Name))
         {
-            _properties.Add(property.Name, property.GetValue(null)?.ToString() ?? string.Empty);
+            _labels.Add(property.Name);
+            _values.Add(property.GetValue(null)?.ToString() ?? string.Empty);
         }
     }
 
@@ -63,15 +65,15 @@ internal class SysInfoUpdate : Form
     {
         using var graphics = CreateGraphics();
         var spaceSize = graphics.MeasureString(" ", Font);
-        var maxLabelWidth = _properties.Max(x => graphics.MeasureString(x.Key, Font).Width);
-        var maxValueWidth = _properties.Max(x => graphics.MeasureString(x.Value, Font).Width);
+        var maxLabelWidth = _labels.Max(x => graphics.MeasureString(x, Font).Width);
+        var maxValueWidth = _values.Max(x => graphics.MeasureString(x, Font).Width);
 
         _height = Font.Height;
         _width = (int)Math.Ceiling(spaceSize.Width + maxLabelWidth);
 
         AutoScrollMinSize = new Size(
             (int)Math.Ceiling(_width + maxValueWidth),
-            (int)Math.Ceiling((double)_height * _properties.Count)
+            (int)Math.Ceiling((double)_height * Count)
         );
     }
 
