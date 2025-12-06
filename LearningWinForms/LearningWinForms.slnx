@@ -39,5 +39,6 @@
   </Folder>
   <Folder Name="/Ch05/">
     <Project Path="P033_XMarksTheSpot/P033_XMarksTheSpot.csproj" Id="d603c55f-2070-45a5-9bdb-5a97a67d7376" />
+    <Project Path="P034_HelloPrinter/P034_HelloPrinter.csproj" Id="f2534e7d-db19-49d3-9d9a-206fa39973c2" />
   </Folder>
 </Solution>
