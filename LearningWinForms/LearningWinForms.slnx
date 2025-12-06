@@ -43,5 +43,6 @@
     <Project Path="P035_PrintableForm/P035_PrintableForm.csproj" Id="92d7f1fe-c629-402e-b5b1-8700ecf89a37" />
     <Project Path="P036_AntiAlias/P036_AntiAlias.csproj" Id="d0b1464f-e2b1-4375-978f-65f018cad81a" />
     <Project Path="P037_BoxingTheClient/P037_BoxingTheClient.csproj" Id="9dd92f49-84e7-4067-8d28-975280782814" />
+    <Project Path="P038_DrawHouse/P038_DrawHouse.csproj" Id="5dc4320c-051c-42c5-9629-66a26243fde6" />
   </Folder>
 </Solution>
