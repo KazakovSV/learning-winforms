@@ -37,5 +37,7 @@
     <Project Path="P031_SysInfoUpdate/P031_SysInfoUpdate.csproj" Id="d0c13601-0bca-4338-ba8c-f3fec933a7d6" />
     <Project Path="P032_SysInfoEfficient/P032_SysInfoEfficient.csproj" Id="0d7b4bc1-2194-40b1-8417-5f751763adab" />
   </Folder>
-  <Folder Name="/Ch05/" />
+  <Folder Name="/Ch05/">
+    <Project Path="P033_XMarksTheSpot/P033_XMarksTheSpot.csproj" Id="d603c55f-2070-45a5-9bdb-5a97a67d7376" />
+  </Folder>
 </Solution>
